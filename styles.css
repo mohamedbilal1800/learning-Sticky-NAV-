@@ -2,6 +2,8 @@ html {
   box-sizing: border-box;
   background: #ffffff;
   background: url(./images/wp11522517-bleach-manga-panel-wallpapers.jpg);
+  border :1cm;
+  border-color: black;
   font-family: 'helvetica neue';
   font-size: 20px;
   font-weight: 200;
